@@ -1,0 +1,4 @@
+build: ''
+build_path: ''
+dev: streamlit run app.py
+install: pip install -r requirements.txt
