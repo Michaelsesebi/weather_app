@@ -46,18 +46,12 @@ Tokyo, Japan
 Paris, France
 Sydney, Australia
 Production Setup
-For production use, you would need to:
 
-Sign up for a weather API service (e.g., OpenWeatherMap)
-Get an API key
-Replace the demo data with actual API calls
-Add error handling for API rate limits
+
 Technologies Used
 Streamlit: Web framework for Python
 Requests: HTTP library for API calls
 Pandas: Data manipulation and analysis
-License
-This project is open source and available under the MIT License.
 
-Editor
+
 
