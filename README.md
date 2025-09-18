@@ -1,3 +1,21 @@
+Group Name: TechSmiths
+
+Group Members:
+
+Adovor Kakah Robert - 01244193B
+
+Adzomah Johnson - 01246568B
+
+Adzah Richard Khalel Annor - 01244415B
+
+Bidow Henry Baba Razak - 01245151B
+
+Michael Kofi Sesebi - 01245306B
+
+Samuel Opoku Obeng - 01243730B
+
+CONTENT
+
 Global Weather Forecast Website
 A Python-based web application built with Streamlit that allows users to view weather forecasts for cities around the world.
 
@@ -42,3 +60,4 @@ License
 This project is open source and available under the MIT License.
 
 Editor
+
